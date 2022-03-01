@@ -1,4 +1,4 @@
-⚡ [![wakatime](https://wakatime.com/badge/user/8a6f7264-f3d0-481b-97d9-58e8b54e6ecd.svg)](https://wakatime.com/@8a6f7264-f3d0-481b-97d9-58e8b54e6ecd)
+[![wakatime](https://wakatime.com/badge/user/8a6f7264-f3d0-481b-97d9-58e8b54e6ecd.svg)](https://wakatime.com/@8a6f7264-f3d0-481b-97d9-58e8b54e6ecd)
 
 <!--
 **dvaghela/dvaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
